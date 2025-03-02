@@ -1,0 +1,16 @@
+Package: cn.llld.settingsudid
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 140
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./cn.llld.settingsudid_1.0_iphoneos-arm64e.deb
+Size: 3648
+MD5sum: 5dd5efe3d6f258f8436311ce503faae8
+SHA1: f8757f9801c94b3d1b34a3c6bde335ed35e981a3
+SHA256: 9ae03701e07b2190846e87d558dee294e31e061c04968204acb3b560dc570e33
+Section: roothide修复插件
+Description: Check your UDID from the Settings > General > About phone page!从“设置”>"通用">“关于手机”页查看您的UDID！_________仅测试用,有问题卸载---roothide
+Author: iCraze
+Name: SettingsUDID-roothide
+
